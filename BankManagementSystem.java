@@ -103,3 +103,62 @@ public class BankManagementSystem {
         }
     }
   }
+## Sample Output
+
+===== Create Bank Account =====
+
+Enter Account Number: 101
+Enter Account Holder Name: Deekshitha
+Enter Initial Balance: 50000
+
+===== Bank Management System =====
+
+1. Deposit
+2. Withdraw
+3. View Account
+4. Exit
+
+Enter Your Choice: 1
+
+Enter Deposit Amount: 121
+
+Amount Deposited Successfully!
+
+===== Bank Management System =====
+
+1. Deposit
+2. Withdraw
+3. View Account
+4. Exit
+
+Enter Your Choice: 2
+
+Enter Withdraw Amount: 1000
+
+Withdrawal Successful!
+
+===== Bank Management System =====
+
+1. Deposit
+2. Withdraw
+3. View Account
+4. Exit
+
+Enter Your Choice: 3
+
+===== Account Details =====
+
+Account Number: 101
+Account Holder: Deekshitha
+Balance: ₹49121.0
+
+===== Bank Management System =====
+
+1. Deposit
+2. Withdraw
+3. View Account
+4. Exit
+
+Enter Your Choice: 4
+
+Exiting Program...

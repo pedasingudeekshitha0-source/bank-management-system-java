@@ -47,3 +47,12 @@ bank-management-system/
 ├── Account.java
 ├── Bank.java
 └── Transaction.java
+Future Improvements
+Database integration
+GUI support
+Transaction history
+User authentication
+Online banking features
+👩‍💻 Author
+Deekshitha Pedasingu
+GitHub: https://github.com/pedasingudeekshitha0-source⁠�

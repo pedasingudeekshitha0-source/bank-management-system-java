@@ -56,3 +56,6 @@ Online banking features
 👩‍💻 Author
 Deekshitha Pedasingu
 GitHub: https://github.com/pedasingudeekshitha0-source⁠�
+Why This Project?
+This project was developed to practice Java programming and understand Object-Oriented Programming concepts in real-world applications.
+
